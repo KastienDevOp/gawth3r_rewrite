@@ -1,0 +1,7 @@
+.About-Display,
+.About-Display > #about-box,
+.About-Display > #about-box-2 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
